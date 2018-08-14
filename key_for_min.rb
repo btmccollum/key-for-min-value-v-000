@@ -6,7 +6,7 @@ min_value = ""
   name_hash.each do |name, value|
 i = 0
     if i < value
-      min_value = name 
+      min_value = name
   end
 end
   min_value

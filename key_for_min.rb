@@ -3,9 +3,8 @@
 
 def key_for_min_value(name_hash) #will need to iterate through the hash, compare values, and then return the key with the smallest value
 min_value = ""
-  name_hash.each do |name, value|
-i = 0
-    if i < value
+  name_hash. do |name, value|
+    if value < value.last
       min_value = name
   end
 end

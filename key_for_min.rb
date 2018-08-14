@@ -5,3 +5,4 @@ def key_for_min_value(name_hash) #will need to iterate through the hash, compare
   name_hash.each do |name, value|
     name
 end
+end

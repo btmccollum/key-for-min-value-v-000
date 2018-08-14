@@ -11,7 +11,7 @@ def key_for_min_value(name_hash) #will need to iterate through the hash, compare
       lowest_key = key
   end
 end
-  lowest_key = "0"
+  lowest_key
 
 
 end

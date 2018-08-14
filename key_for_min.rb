@@ -8,6 +8,7 @@ min_value = ""
 
     if value > new_value
       new_value = value
+      min_value = name
   end
 end
   min_value

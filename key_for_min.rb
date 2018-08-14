@@ -9,5 +9,6 @@ min_value = ""
       i = value
       min_value = name
   end
+end
   min_value
 end
